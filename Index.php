@@ -1,2 +1,2 @@
-<?php echo 'Bonjour' 
-?>  ;
+<?php echo "Bonjour" ;
+?>  
